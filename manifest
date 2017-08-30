@@ -31,6 +31,9 @@
 #
 # =====================================================================
 
+# Common Internet File System (CIFS)
+ssh://git@github.com/marcilr/cifs   cifs
+
 # inotify - monitoring filesystem events
 ssh://git@github.com/marcilr/inotify   inotify
 
