@@ -6,6 +6,14 @@ by Raymond E. Marcil <marcilr@gmail.com>
 Filesystem related links
 
 
+ZFS Is the Best Filesystem (For Now…)
+July 10, 2017 By Stephen 48 Comments
+by Stephen Foskett
+Pack Rat
+Yep. Right now XFS on top of dmraid is still THE way to go.   <===
+http://blog.fosketts.net/2017/07/10/zfs-best-filesystem-now/
+
+
 Links
 =====
 Ask Slashdot: Best File System For Web Hosting?
