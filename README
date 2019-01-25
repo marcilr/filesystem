@@ -16,6 +16,10 @@ btrfs/
   open for contribution from anyone. 
   https://btrfs.wiki.kernel.org/index.php/Main_Page  
 
+cifs/
+  Common Internet File System (CIFS)
+  https://technet.microsoft.com/en-us/library/cc939973.aspx
+
 fuse/
   "Filesystem in Userspace (FUSE) is a loadable kernel module for Unix-like
   computer operating systems that lets non-privileged users create their own
@@ -54,6 +58,10 @@ ocfs2/
  
 sshfs/
   sshfs - filesystem client based on SSH File Transfer Protocol
+
+zettabyte/
+  Zettabyte File System
+
 
 zfs/
   ZFS filesystem info.

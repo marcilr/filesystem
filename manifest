@@ -30,12 +30,6 @@
 # Filesystem
 #
 # =====================================================================
-
-# Common Internet File System (CIFS)
-ssh://git@github.com/marcilr/cifs   cifs
-
-# inotify - monitoring filesystem events
+ssh://git@github.com/marcilr/cifs      cifs
 ssh://git@github.com/marcilr/inotify   inotify
-
-# Zettabyte File System
-ssh://git@github.com/marcilr/zfs   zfs
+ssh://git@github.com/marcilr/zfs       zfs
