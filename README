@@ -20,6 +20,9 @@ cifs/
   Common Internet File System (CIFS)
   https://technet.microsoft.com/en-us/library/cc939973.aspx
 
+docs/
+  Documentation
+
 fuse/
   "Filesystem in Userspace (FUSE) is a loadable kernel module for Unix-like
   computer operating systems that lets non-privileged users create their own
