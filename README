@@ -23,6 +23,17 @@ cifs/
 docs/
   Documentation
 
+ecryptfs/
+  eCryptfs - The enterprise cryptographic filesystem for Linux
+  http://ecryptfs.org/
+
+encfs/
+  EncFS: an Encrypted Filesystem for FUSE
+  http://www.arg0.net/#!encfs/c1awt
+
+encrypted-filesystem.txt
+  Encrypted filesystem
+
 fuse/
   "Filesystem in Userspace (FUSE) is a loadable kernel module for Unix-like
   computer operating systems that lets non-privileged users create their own
@@ -33,6 +44,9 @@ fuse/
 
 gfs/
   GFS filesystem.
+
+glossary/
+  Glossary for filesystem
 
 imapfs/
   IMAPFS is a FUSE filesystem that allows you to store files on an IMAP
@@ -58,6 +72,9 @@ ntfs/
 
 ocfs2/
  OCFS2 filesystem - only Linux clustering filesystem by Oracle.
+
+pdf/
+  Portable Document Format files
  
 sshfs/
   sshfs - filesystem client based on SSH File Transfer Protocol
