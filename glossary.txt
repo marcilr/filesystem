@@ -1,5 +1,5 @@
 glossary.txt
-Created Fri Oct  9 09:47:42 AKDT 2015
+Created Thu Apr  4 09:22:49 AKDT 2013
 Copyright (C) 2015 by Raymond E. Marcil <marcilr@gmail.com>
 
 
@@ -13,4 +13,19 @@ Deduplication - "In computing, data deduplication is a specialized data
   along with references to the unique copy of data.  Deduplication is able to
   reduce the required storage capacity since only the unique data is stored."
   http://en.wikipedia.org/wiki/Data_deduplication
+
+LUKS - is the Linux Unified Key Setup and is a standard format for linux hard
+  disk encryption.  It has a lot of interesting features such as using a key
+  on a removable disk, keeping multiple keys, and more.  This is the
+  technology used by the Debian Installer (since etch beta3) and is quickly
+  becoming a standard in the linux world.
+  debian-administration.org/
+
+
+Links
+=====
+How to set up an encrypted filesystem in several easy steps
+Posted by Anonymous on Wed 29 Nov 2006 at 11:17
+Tags: encryption, filesystems, luks, lvm 
+http://www.debian-administration.org/articles/469
 
