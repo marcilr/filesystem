@@ -116,6 +116,10 @@ o Digital Music
 o Digital Images/Photos
 http://lime-technology.com/
 
+What is the difference between a hard link and a symbolic link?   <===
+Nice page and graphic
+https://medium.com/@LeeJulija/what-is-the-difference-between-a-hard-link-and-a-symbolic-link-4330e3094812
+
 Which OSS Clustered Filesystem Should I Use?
 Posted by Unknown Lamer on Monday October 31, @09:02PM
 from the deleting-is-so-90s dept.
