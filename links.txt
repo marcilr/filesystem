@@ -75,6 +75,9 @@ or bypassing full disk encryption.'
 "plausible deniability"
 http://it.slashdot.org/story/11/11/19/2011228/full-disk-encryption-hard-for-law-enforcement-to-crack
 
+Get Last Modified Date of File in Linux
+https://superuser.com/questions/737247/get-last-modified-date-of-file-in-linux
+
 How to set up an encrypted filesystem in several easy steps
 Posted by Anonymous on Wed 29 Nov 2006 at 11:17
 Tags: encryption, filesystems, luks, lvm
